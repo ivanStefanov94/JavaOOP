@@ -1,0 +1,9 @@
+package InterfacesAndAbstraction.lab.SayHello;
+
+public class European extends PersonImpl{
+
+    public European(String name){
+        super(name);
+    }
+
+}
